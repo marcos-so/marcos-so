@@ -3,15 +3,13 @@
 - 🕹️ Apaixonado por jogos (às vezes streamer)
 - 🤓 Programador BackEnd (mas não vivo só no back)
 
-___
-
-
+<br>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcos-so&theme=synthwave&locale=pt-br&include_all_commits=true&rank_icon=github)
 
-
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-so&layout=compact&locale=pt-br)
+
+<br>
 
 ##### Atualmente trabalhando com:
 <div style="display: inline-block">
@@ -23,10 +21,13 @@ ___
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
 </div>
 
-#### E me aventurando com:
+#### E me aventurando em:
 <div style="display: inline-block">
   <img align="center" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img align="center" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" />
   <img align="center" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 </div>
+
+#### Qualquer coisa, me chama:
+<a href="mailto:mvcode@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
