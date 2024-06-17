@@ -5,7 +5,7 @@
 
 <br>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcos-so&theme=dracula&locale=pt-br&include_all_commits=true&rank_icon=github&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcos-so&theme=dracula&locale=pt-br&include_all_commits=true&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-so&layout=compact&locale=pt-br&theme=dracula)
 
