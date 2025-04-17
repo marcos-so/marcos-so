@@ -5,10 +5,6 @@
 
 <br>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcos-so&theme=dracula&locale=pt-br&include_all_commits=true&show_icons=true&hide_rank=false)
-
-<br>
-
 ##### Atualmente trabalhando com:
 <div style="display: inline-block">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
